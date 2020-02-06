@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MAGAJ</string>
+    <string name="Games">Games</string>
+    <string name="Options">Options</string>
+    <string name="About">About</string>
+    <string name="Exit">Exit</string>
+    <string name="Back">Back</string>
+    <string name="Food">Food Tips</string>
+    <string name="Progress">Progress</string>
+    <string name="Sleep">Sleep Schedule</string>
+    <string name="Test">Take Test</string>
+    <string name="MemGame">Enhance Memory</string>
+    <string name="SpeedGame">Enhance Speed</string>
+    <string name="About_section">Made by :\n      Prafful Chowdhary\n      Ruthvik Thanda\n\nThis Application got its name MAGAJ from a word in indian language which means mind. Through this application we intend to increase the cognetive ability of people of every age so that in their old age there are less chances of lossing memory or weaker cognitive functioning.\n\nThis application incudes varity of easy games to test and amplify your brain activity with additional features for people who have alzimers, it helps them take tablets on time and helps them suggest food they can eat.\n\n We hope you will play games regularly and we will get updates so that users dont get bored by the same game pattern repeating.</string>
+
+</resources>
